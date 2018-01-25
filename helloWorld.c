@@ -5,6 +5,6 @@
  **/
 #include<stdio.h>
 int main(int argc, char **argv){
-  printf("Sam Curley Eric Wilkening\n");
+  printf("Sam Curley\n");
 return 0;
 }
